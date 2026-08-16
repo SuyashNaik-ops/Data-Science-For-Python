@@ -1,0 +1,11 @@
+Mean:
+
+=AVERAGE(B2:B100)
+
+Median:
+
+=MEDIAN(B2:B100)
+
+Mode:
+
+=MODE.SNGL(B2:B100)
