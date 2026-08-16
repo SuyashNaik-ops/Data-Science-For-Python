@@ -1,0 +1,9 @@
+1. Card              → Total Sales
+2. Card              → Total Revenue
+3. Card              → Total Quantity
+4. Bar Chart         → Category-wise Sales
+5. Bar Chart         → Region-wise Sales
+6. Line Chart        → Sales Trend
+7. Table             → Top 10 Products
+8. Slicer            → Region
+9. Slicer            → Category
