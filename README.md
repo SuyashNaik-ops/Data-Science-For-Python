@@ -5,7 +5,7 @@ This Is A project used in for Data SCience For Project
 
 A collection of my **Data Science learning, practice, and projects**, covering data analysis, visualization, statistics, machine learning, and exploratory data analysis using Python..
 
-## 🚀 Topics Covered
+ 🚀 Topics Covered
 
 * 🐍 Python for Data Science
 * 📦 NumPy
