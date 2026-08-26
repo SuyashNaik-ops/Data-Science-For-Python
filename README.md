@@ -3,7 +3,7 @@ A collection of Python programs and practical examples covering data analysis, d
 This Is A project used in for Data SCience For Project
 # 📊 Data Science
 
-A collection of my **Data Science learning, practice, and projects**, covering data analysis, visualization, statistics, machine learning, and exploratory data analysis using Python.
+A collection of my **Data Science learning, practice, and projects**, covering data analysis, visualization, statistics, machine learning, and exploratory data analysis using Python..
 
 ## 🚀 Topics Covered
 
