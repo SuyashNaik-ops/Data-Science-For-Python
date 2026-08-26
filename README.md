@@ -77,7 +77,81 @@ I am continuously updating this repository as I learn new concepts and work on n
 
 B.Tech — Artificial Intelligence & Data Science
 
-GitHub: [Suyash Naik](https://github.com/)
+# 📊 Data Science
+
+> Learning Data Science by turning raw data into meaningful insights.
+
+This repository contains my **Data Science practice, experiments, notebooks, and projects** as I build my skills in data analysis, visualization, statistics, and machine learning.
+
+## 🔎 What I'm Learning
+
+* Python for Data Science
+* NumPy & Pandas
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+* Statistics & Probability
+* Feature Engineering
+* Machine Learning
+* Working with Real-World Datasets
+
+## 🧰 Tech Stack
+
+```text
+Python
+├── NumPy
+├── Pandas
+├── Matplotlib
+└── Scikit-learn
+
+Tools
+├── Jupyter Notebook
+├── VS Code
+├── Excel
+└── Git & GitHub
+```
+
+## 📁 Contents
+
+| Section       | Description                          |
+| ------------- | ------------------------------------ |
+| Python        | Python concepts used in Data Science |
+| NumPy         | Numerical computing and arrays       |
+| Pandas        | Data manipulation and analysis       |
+| EDA           | Exploring and understanding datasets |
+| Visualization | Charts and graphical analysis        |
+| Statistics    | Statistical concepts and analysis    |
+| ML            | Machine Learning experiments         |
+| Projects      | Hands-on Data Science projects       |
+
+## 💡 My Approach
+
+I focus on **learning by doing** — understanding a concept, applying it to data, analyzing the results, and documenting what I learn.
+
+## 🚀 Progress
+
+* [x] Python fundamentals
+* [x] NumPy basics
+* [x] Pandas basics
+* [x] Data visualization basics
+* [ ] Advanced EDA
+* [ ] Feature engineering
+* [ ] Advanced statistics
+* [ ] Machine Learning
+* [ ] End-to-end projects
+
+## 🎯 Objective
+
+Build the skills required to work with real-world data and eventually develop **end-to-end Data Science and Machine Learning projects**.
+
+---
+
+### 👨‍💻 Suyash Naik
+
+**B.Tech — Artificial Intelligence & Data Science**
+
+*Learning. Building. Improving.*
+
 
 ---
 
