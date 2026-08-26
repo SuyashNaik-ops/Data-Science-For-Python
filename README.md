@@ -150,7 +150,7 @@ Build the skills required to work with real-world data and eventually develop **
 
 **B.Tech — Artificial Intelligence & Data Science**
 
-*Learning. Building. Improving.*
+
 
 
 ---
