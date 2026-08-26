@@ -144,7 +144,6 @@ I focus on **learning by doing** — understanding a concept, applying it to dat
 
 Build the skills required to work with real-world data and eventually develop **end-to-end Data Science and Machine Learning projects**.
 
----
 
 ### 👨‍💻 Suyash Naik
 
