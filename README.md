@@ -1,7 +1,7 @@
 # Data-Science-For-Python
 A collection of Python programs and practical examples covering data analysis, data visualization, statistics, Pandas, NumPy, and other essential concepts used in Data Science.
 This Is A project used in for Data SCience For Project
-# 📊 Data Science
+ 📊 Data Science
 
 A collection of my **Data Science learning, practice, and projects**, covering data analysis, visualization, statistics, machine learning, and exploratory data analysis using Python..
 
@@ -21,7 +21,7 @@ A collection of my **Data Science learning, practice, and projects**, covering d
 * 🤖 Machine Learning Basics
 * 📋 Data Analysis Projects
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 * Python
 * NumPy
@@ -32,7 +32,7 @@ A collection of my **Data Science learning, practice, and projects**, covering d
 * Excel
 * Git & GitHub
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 Data-Science/
@@ -49,7 +49,7 @@ Data-Science/
 └── README.md
 ```
 
-## 📚 Practice
+# 📚 Practice
 
 This repository contains:
 
@@ -61,17 +61,17 @@ This repository contains:
 * Machine learning experiments
 * Mini projects
 
-## 🎯 Goal
+# 🎯 Goal
 
 The goal of this repository is to build a strong foundation in **Data Science** through consistent practice and hands-on projects.
 
-## 📈 Learning Journey
+# 📈 Learning Journey
 
 > Learn → Practice → Analyze → Build → Improve
 
 I am continuously updating this repository as I learn new concepts and work on new projects.
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Suyash Naik**
 
