@@ -24,7 +24,7 @@ print(df.duplicated().sum())
 print("\nCorrelation Matrix:")
 print(df.select_dtypes(include="number").corr())
 
-# Sales distribution
+# Sales distributions
 if "Sales" in df.columns:
     df["Sales"].hist()
     plt.title("Sales Distribution")
