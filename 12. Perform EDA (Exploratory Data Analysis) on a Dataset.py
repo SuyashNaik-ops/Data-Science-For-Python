@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Loading dataset
 df = pd.read_csv("sales.csv")
 
 # Basic information
