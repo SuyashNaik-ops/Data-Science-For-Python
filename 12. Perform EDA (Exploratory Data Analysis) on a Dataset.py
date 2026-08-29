@@ -20,11 +20,11 @@ print(df.isnull().sum())
 print("\nDuplicate Rows:")
 print(df.duplicated().sum())
 
-# Numerical columns
+#Numerical columns
 print("\nCorrelation Matrix:")
 print(df.select_dtypes(include="number").corr())
 
-# Sales distributions
+#Sales distributions
 if "Sales" in df.columns:
     df["Sales"].hist()
     plt.title("Sales Distribution")
